@@ -13,7 +13,7 @@ export default function App() {
           <a
             href="https://eloquent-elion-c58bd0.netlify.app/index.html"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Nathalie Rognon{" "}
           </a>{" "}
@@ -21,7 +21,7 @@ export default function App() {
           <a
             href="https://github.com/natkilima/react-weather-app-dec"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
