@@ -30,6 +30,7 @@
   width: 64px;
   margin-right: 10px;
   display: inline-block;
+  vertical-align: top;
 }
 
 .Weather .temperature {
@@ -38,6 +39,7 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  vertical-align: top;
 }
 
 .Weather .unit {
@@ -48,4 +50,5 @@
   line-height: 1;
   top: -32px;
   margin-left: 5px;
+  vertical-align: top;
 }
