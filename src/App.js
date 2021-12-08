@@ -9,7 +9,7 @@ export default function App() {
         <h1>Weather App </h1>
         <Weather defaultCity="Stockholm" />
         <footer>
-          This project was coded by{" "}
+          This project was coded by the awesome{" "}
           <a
             href="https://eloquent-elion-c58bd0.netlify.app/index.html"
             target="_blank"
